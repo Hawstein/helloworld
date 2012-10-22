@@ -6,10 +6,10 @@ Welcome to [helloworld]
 
 support:
 
-*HTTP
-*Git
-*SSH
+* HTTP
+* Git
+* SSH
 
 ## Clone Addr
 
-   $ git clone git://github.com/Hawstein/helloworld.git
+  $ git clone git://github.com/Hawstein/helloworld.git
