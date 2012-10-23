@@ -12,4 +12,4 @@ support:
 
 ## Clone Addr
 
-  $ git clone git://github.com/Hawstein/helloworld.git
+    $ git clone git://github.com/Hawstein/helloworld.git
