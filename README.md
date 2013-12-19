@@ -2,7 +2,7 @@
 
 # OSX test...
 
-# test push.default
+# test push.default matching
 
 # git diff test....
 
