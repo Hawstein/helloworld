@@ -2,6 +2,8 @@
 
 # OSX test...
 
+# test push.default
+
 # git diff test....
 
 Test for SSH keys
