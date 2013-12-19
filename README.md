@@ -4,6 +4,8 @@
 
 # test push.default matching...
 
+the stupid internet
+
 # git diff test....
 
 Test for SSH keys
