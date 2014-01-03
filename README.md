@@ -1,5 +1,7 @@
 # This is my first GitHub project.
 
+make a conflict
+
 # OSX test...
 
 # test push.default matching...
