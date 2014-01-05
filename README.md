@@ -26,4 +26,6 @@ support:
 
 ## test: log --graph
 
-##test for amend
+## test for amend
+
+## test for unknown commit
