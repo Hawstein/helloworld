@@ -23,3 +23,5 @@ support:
 ## Clone Addr
 
     $ git clone git://github.com/Hawstein/helloworld.git
+
+## test: log --graph 
