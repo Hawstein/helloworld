@@ -24,4 +24,6 @@ support:
 
     $ git clone git://github.com/Hawstein/helloworld.git
 
-## test: log --graph 
+## test: log --graph
+
+##test for amend
