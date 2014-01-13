@@ -2,6 +2,10 @@
 
 test difftool：meld
 
+# multi-user setting
+
+set another user.name and user.email in your project scope.(.git/config)
+
 # OSX test...
 
 # test push.default matching...
