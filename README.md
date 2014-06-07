@@ -3,21 +3,35 @@
 ```js
 var b = 3
 ```
-```ObjectiveC
-#import "MyClass.h"
 
-@implementation MyClass
-- (id)initWithString:(NSString *)aName
-{
-    // code goes here
+```ObjectiveC
+class Vehicle {
+    var numberOfWheels: Int
+    var maxPassengers: Int
+    func description() -> String {
+        return "\(numberOfWheels) wheels; up to \(maxPassengers) passengers"
+    }
+    init() {
+        numberOfWheels = 0
+        maxPassengers = 1
+    }
 }
- 
-+ (MyClass *)myClassWithString:(NSString *)aName
-{
-    // code goes here
-}
-@end
 ```
+
+```Swift
+class Vehicle {
+    var numberOfWheels: Int
+    var maxPassengers: Int
+    func description() -> String {
+        return "\(numberOfWheels) wheels; up to \(maxPassengers) passengers"
+    }
+    init() {
+        numberOfWheels = 0
+        maxPassengers = 1
+    }
+}
+```
+
 
 test difftool：meld
 
