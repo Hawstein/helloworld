@@ -1,5 +1,9 @@
 # This is my first GitHub project.
 
+```js
+var b = 3
+```
+
 test difftool：meld
 
 # multi-user setting
