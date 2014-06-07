@@ -18,7 +18,7 @@ class Vehicle {
 }
 ```
 
-```Swift
+```js
 class Vehicle {
     var numberOfWheels: Int
     var maxPassengers: Int
