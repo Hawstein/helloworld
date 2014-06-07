@@ -3,6 +3,21 @@
 ```js
 var b = 3
 ```
+```ObjectiveC
+#import "MyClass.h"
+
+@implementation MyClass
+- (id)initWithString:(NSString *)aName
+{
+    // code goes here
+}
+ 
++ (MyClass *)myClassWithString:(NSString *)aName
+{
+    // code goes here
+}
+@end
+```
 
 test difftool：meld
 
