@@ -1,5 +1,7 @@
 # This is my first GitHub project.
 
+test for tracking func
+
 test for dev & remote branch setup
 
 test difftool：meld
