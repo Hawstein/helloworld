@@ -1,5 +1,7 @@
 # This is my first GitHub project.
 
+Now i just use git push...(dev -> dev)
+
 test for tracking func
 
 test for dev & remote branch setup
